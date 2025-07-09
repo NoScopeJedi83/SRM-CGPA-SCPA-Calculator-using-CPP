@@ -77,9 +77,9 @@ SGPA for this semester: 8.90
 
 ## 📸 Outputs
 
-<p align="center"> <img src="
-SGPA_CGPA_Calculator/outputs/sgpa_example.png" alt="SGPA Output" width="48%"> <img src="
-SGPA_CGPA_Calculator/outputs/cgpa_example.png" alt="CGPA Output" width="48%"> </p>
+<p align="center"> 
+  <img src="SGPA_CGPA_Calculator/outputs/sgpa_example.png" alt="SGPA Output" width="48%"> 
+  <img src="SGPA_CGPA_Calculator/outputs/cgpa_example.png" alt="CGPA Output" width="48%"> </p>
 
 These screenshots demonstrate sample runs of SGPA and CGPA calculations using SRM's grading scheme.
 
