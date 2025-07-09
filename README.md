@@ -1,1 +1,1 @@
-# SRM-CGPA-SCPA-Calculator-using-CPP
+# SRM CGPA/SGPA Calculator using C++
